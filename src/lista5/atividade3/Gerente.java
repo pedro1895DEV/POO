@@ -1,7 +1,7 @@
 package lista5.atividade3;
 
 public class Gerente extends Funcionário{
-    double salMinGer = 5000;
+    int salMinGer = 5000;
 
     double alterarSalário(){
         if(salário < 5000){
